@@ -1,7 +1,7 @@
- ##Hello, i'am Théo
+ ##Hello, I'am Théo
 - Desenvolvedor Full Stack Java
 - Superior de Tecnologia em Análise e Des. de Sistemas
-- Pronouns: Ele/Dele
+- Pronouns: Hi/His
 
 <div align="center">
   <a href="https://github.com/theonnogueira">
