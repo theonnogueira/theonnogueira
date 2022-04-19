@@ -1,4 +1,4 @@
- ##Hello, I'am Théo
+ ##Hello, I'am Théo 🏳️‍⚧️
 - Desenvolvedor Full Stack Java
 - Superior de Tecnologia em Análise e Des. de Sistemas
 - Pronouns: Hi/His
